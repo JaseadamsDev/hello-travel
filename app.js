@@ -46,7 +46,7 @@ function displayHappy() {
 
     return document.write(output);
 }
-
+displayHappy();
 
 
 function passportVisitor(){
