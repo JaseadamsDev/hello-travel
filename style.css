@@ -33,6 +33,7 @@ body {
   }
   h1 {
     float: left;
+
   }
   nav li a {
     color: rgb(15, 5, 5);
@@ -41,7 +42,6 @@ body {
   
   nav ul {
     text-decoration: none;
-    list-style: none;
     list-style: none;
   }
   
